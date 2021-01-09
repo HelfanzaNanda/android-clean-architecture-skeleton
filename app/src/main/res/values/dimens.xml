@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_card_container">8dp</dimen>
+    <dimen name="text_body_mt">8dp</dimen>
+    <dimen name="card_item">4dp</dimen>
+</resources>
